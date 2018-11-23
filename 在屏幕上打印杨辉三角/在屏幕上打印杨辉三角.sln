@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "在屏幕上打印杨辉三角", "在屏幕上打印杨辉三角\在屏幕上打印杨辉三角.vcxproj", "{FD47FF3B-597A-4DAD-B7D2-DBA90E2E8794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD47FF3B-597A-4DAD-B7D2-DBA90E2E8794}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD47FF3B-597A-4DAD-B7D2-DBA90E2E8794}.Debug|Win32.Build.0 = Debug|Win32
+		{FD47FF3B-597A-4DAD-B7D2-DBA90E2E8794}.Release|Win32.ActiveCfg = Release|Win32
+		{FD47FF3B-597A-4DAD-B7D2-DBA90E2E8794}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
